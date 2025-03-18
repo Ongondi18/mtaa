@@ -1,6 +1,6 @@
 # MTAA - Mobile Civic Issue Reporter
 
-[![Watch the demo](demoimg.jpg)](https://youtube.com/shorts/OA9m7mWjIg0?feature=share)
+[![Watch the demo](demoimg.jpg)](https://youtube.com/shorts/OA9m7mWjIg0?feature=share?autoplay=1)
 
 
 ## Project Overview
