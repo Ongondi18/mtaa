@@ -1,5 +1,8 @@
 # MTAA - Mobile Civic Issue Reporter
 
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/OA9m7mWjIg0?feature=share)
+
+
 ## Project Overview
 An Android application for reporting civic issues to authorities including road breakdowns, street light problems, and emergency situations. Features secure submission workflows, real-time status tracking, and integrated emergency services contact using Firebase services.
 
